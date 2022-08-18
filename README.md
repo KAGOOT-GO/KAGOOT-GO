@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KAGOOT-GO
+- 👋 Hi, I’m Tom @ KAGOOT-GO
 - 👀 I’m interested in automating the processes of businesses in an all inclusive manner and am the team leader responsible for the KAGOOT-GO software idea. 
 - 🌱 I’m currently learning everything, sorry just I very often feel I don't know anything. 
 - 💞️ I’m looking to collaborate on the finer aspects of software programming languages, what will work for business owners in the real world and what won't and how to know in advance of launch, what business owners will be willing to pay, the software business its self.  
